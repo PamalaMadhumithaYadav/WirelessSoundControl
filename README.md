@@ -1,9 +1,6 @@
 # Wireless Sound Control (macOS)
 This project enables macOS users to control system volume and mute/unmute audio via webcam-detected hand gestures. It uses MediaPipe for hand tracking and OpenCV for visuals. Volume is adjusted by thumb-index finger distance. An open palm mutes, a peace sign unmutes. 
 
-
-Control your macOS system volume and mute/unmute audio using intuitive hand gestures detected by your webcam. This project leverages MediaPipe for robust hand tracking and OpenCV for real-time video processing and visual feedback.
-
 ## Features
 
 * **Gesture-Based Volume Control:** Adjust system volume by varying the distance between your thumb and index finger.
